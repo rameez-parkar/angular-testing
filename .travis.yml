@@ -1,4 +1,6 @@
 
+before_script:
+  - cd angular-testing-course
 language: node_js
 node_js:
   - 16
