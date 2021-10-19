@@ -1,5 +1,5 @@
 
-before_script:
+before_install:
   - cd angular-testing-course
 language: node_js
 node_js:
